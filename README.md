@@ -1,0 +1,1 @@
+# django-web-dev-30-exercises
