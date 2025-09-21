@@ -1,4 +1,4 @@
-# Django Web Dev - 30 Exercises
+# Django - 30 Exercises
 
 Welcome to my Django web development practice repository!  
 This repository contains 30 exercises designed to help me master Django’s full-stack capabilities through practical, project-based challenges.
